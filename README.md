@@ -26,4 +26,4 @@
 
 ## Setup Kubernetes master and slave on Ubuntu
 
-### Access the MovieApp app on the Browser.
+#### Access the MovieApp app on the Browser.
